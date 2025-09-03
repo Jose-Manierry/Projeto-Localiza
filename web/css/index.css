@@ -1,0 +1,14 @@
+.pesquisa{
+    background-color: rgb(158, 158, 255);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
+.center{
+    text-align: center;
+    background-color: rgb(158, 158, 255);
+}
